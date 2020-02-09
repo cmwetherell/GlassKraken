@@ -3,8 +3,8 @@
 
   <head>
 
-    {% if jekyll.environment == "production" %}
-    <script src="/assets/js/gtag.js"></script>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
     {% endif %}
 
     <meta charset="utf-8">

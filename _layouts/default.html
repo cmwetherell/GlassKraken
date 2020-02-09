@@ -3,15 +3,15 @@
 
   <head>
 
+    {% if jekyll.environment == "production" %}
+    <script src="/assets/js/gtag.js"></script>
+    {% endif %}
+
     <meta charset="utf-8">
 
     <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="/assets/css/styles.css">
-
-    {% if jekyll.environment == "production" %}
-    <script src="/assets/js/gtag.js"></script>
-    {% endif %}
 
     {% feed_meta %}
 

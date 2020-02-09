@@ -1,0 +1,17 @@
+<header>
+  <nav class="nav-sticky">
+    <ul class = "menu">
+      <li class="nav-logo"><a href="#">Invisible App</a></li>
+      {% for item in site.data.navigation %}
+        <li {% if page.url == item.link %}
+                class="nav-link-active"
+            {% else %} class="nav-link"
+            {% endif %}
+            >
+          <a href="{{ item.link }}">{{ item.name }}</a>
+        </li>
+      {% endfor %}
+      <li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
+    </ul>
+  </nav>
+</header>

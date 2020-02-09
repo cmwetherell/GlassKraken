@@ -7,19 +7,37 @@
     {% include analytics.html %}
     {% endif %}
 
+    <script src="https://kit.fontawesome.com/201f295d81.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="/assets/css/styles.css">
 
     {% feed_meta %}
 
     {% seo %}
+    <script>
+    $(document).ready(function(){
+    $(".toggle").on("click", function() {
+      console.log('button clicked');
+        if ($(".nav-link").hasClass("active")) {
+            $(".nav-link").removeClass("active");
+            $(".nav-link-active").removeClass("active");
+            $(this).find("a").html("<i class='fas fa-bars'></i>");
+        } else {
+            $(".nav-link").addClass("active");
+            $(".nav-link-active").addClass("active");
+            $(this).find("a").html("<i class='fas fa-times'></i>");
+                }
+          });
+      });</script>
 
   </head>
-
+  {% include header.html %}
   <body>
 
-    {% include navigation.html %}
     {{ content }}
 
   </body>

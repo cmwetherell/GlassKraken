@@ -9,8 +9,8 @@
 
     <link rel="stylesheet" href="/assets/css/styles.css">
 
-    {% if jekyll.environment == "production" %}
-    <script src="/assets/js/gtag.js"></script>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
     {% endif %}
 
     {% feed_meta %}

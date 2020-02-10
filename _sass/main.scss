@@ -7,6 +7,20 @@
 body {
     font-family: sans-serif;
     padding-top: 75px;
+    background-color: #0041;
+
+}
+
+.content {
+  padding-left: 3%;
+  padding-right: 3%;
+
+}
+p {
+
+}
+h1 h2 h3 h4 h5 h6 {
+
 }
 nav {
     background: #222;
@@ -109,6 +123,17 @@ a:hover {
     .menu li {
         padding: 15px 10px;
     }
+    .content {
+      padding-left: 10%;
+      padding-right: 10%;
 
+    }
 }
-.fff {}
+
+.selfie {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 250px;
+}

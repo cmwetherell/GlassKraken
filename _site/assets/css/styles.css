@@ -1,15 +1,19 @@
 /* Basic styling */
 * { box-sizing: border-box; padding: 0; margin: 0; }
 
-body { font-family: sans-serif; padding-top: 75px; background-color: #0041; }
+body { font-family: sans-serif; padding-top: 75px; background-color: #0041; color: #5D6769; }
 
 .content { padding-left: 3%; padding-right: 3%; }
+
+p { font-family: "Lato", 'sans-serif'; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Roboto Slab"; }
 
 nav { background: #222; padding: 5px 20px; }
 
 ul { list-style-type: none; }
 
-a:link { text-decoration: none; }
+a:link { text-decoration: none; color: DeepSkyBlue; }
 
 a:visited { color: DeepSkyBlue; }
 
@@ -46,8 +50,10 @@ a:hover { text-decoration: underline; }
   .nav-link-active { display: block; width: auto; }
   .toggle { display: none; }
   .menu li { padding: 15px 10px; }
-  .content { padding-left: 10%; padding-right: 10%; } }
+  .content { padding-left: 20%; padding-right: 20%; } }
 
-.selfie { display: block; margin-left: auto; margin-right: auto; width: 50%; max-width: 250px; }
+.selfie { display: block; margin-left: auto; margin-right: auto; width: 100%; height: auto; max-width: 250px; }
+
+.postImage { display: block; margin-left: auto; margin-right: auto; width: 100%; height: auto; max-width: 300px; }
 
 /*# sourceMappingURL=styles.css.map */

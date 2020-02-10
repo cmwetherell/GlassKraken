@@ -8,6 +8,7 @@ body {
     font-family: sans-serif;
     padding-top: 75px;
     background-color: #0041;
+    color: #5D6769;
 
 }
 
@@ -17,10 +18,10 @@ body {
 
 }
 p {
-
+  font-family: "Lato", 'sans-serif';
 }
-h1 h2 h3 h4 h5 h6 {
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Slab";
 }
 nav {
     background: #222;
@@ -31,6 +32,7 @@ ul {
 }
 a:link {
     text-decoration: none;
+     color: DeepSkyBlue;
 }
 
 a:visited {
@@ -124,8 +126,8 @@ a:hover {
         padding: 15px 10px;
     }
     .content {
-      padding-left: 10%;
-      padding-right: 10%;
+      padding-left: 20%;
+      padding-right: 20%;
 
     }
 }
@@ -134,6 +136,16 @@ a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
+  height: auto;
   max-width: 250px;
+}
+
+.postImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  max-width: 300px;
 }

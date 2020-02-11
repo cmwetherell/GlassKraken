@@ -1,7 +1,7 @@
 /* Basic styling */
 * { box-sizing: border-box; padding: 0; margin: 0; }
 
-body { font-family: sans-serif; padding-top: 75px; background-color: #0041; color: #5D6769; }
+body { font-family: sans-serif; padding-top: 100px; background-color: #0041; color: #5D6769; }
 
 .content { padding-left: 3%; padding-right: 3%; }
 
@@ -9,21 +9,21 @@ p { font-family: "Lato", 'sans-serif'; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Roboto Slab"; }
 
-nav { background: #222; padding: 5px 20px; }
+nav { background: #222; padding: 5px 20px; max-height: 85px; }
+
+nav li img { /* aligns the image with the top of the content in the nav bar */ vertical-align: top; /* modifying width also modifies separation to nav links */ width: 175px; margin-top: -15px; padding-right: 20px; }
 
 ul { list-style-type: none; }
 
-a:link { text-decoration: none; color: DeepSkyBlue; }
+a:link { text-decoration: none; color: #0083FF; }
 
-a:visited { color: DeepSkyBlue; }
+a:visited { color: #0083FF; }
 
 a:hover { text-decoration: underline; }
 
-.nav-logo a:hover { text-decoration: none; }
-
 .menu li { font-size: 16px; padding: 15px 5px; white-space: nowrap; }
 
-.nav-logo a, .toggle a { font-size: 20px; }
+.toggle a { font-size: 20px; }
 
 .nav-sticky { position: fixed; top: 0; width: 100%; }
 

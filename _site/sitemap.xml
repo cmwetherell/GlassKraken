@@ -2,15 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/caleb.html</loc>
-<lastmod>2020-02-10T22:34:53-08:00</lastmod>
+<lastmod>2020-02-11T02:06:33-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/authors/kraken.html</loc>
-<lastmod>2020-02-10T22:34:53-08:00</lastmod>
+<lastmod>2020-02-11T02:06:33-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020/02/09/NHL-Seattle-timeline-first-puck-drop.html</loc>
 <lastmod>2020-02-09T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/02/10/What-we-know-so-far-about-NHL-Seattle.html</loc>
+<lastmod>2020-02-10T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about.html</loc>

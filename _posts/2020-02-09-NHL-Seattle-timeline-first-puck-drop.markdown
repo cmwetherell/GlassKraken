@@ -3,6 +3,7 @@ layout: "post"
 author: caleb
 title: "NHL Seattle: Timeline until the first puck drops"
 postImage: /assets/img/NHLSeattleLogo.jpg
+imgCaption: "Source: NHL Seattle Twitter"
 ---
 ## June
 

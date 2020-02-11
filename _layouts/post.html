@@ -10,7 +10,11 @@ layout: default
   {% endif %}
 </p>
 
-<br><br>
-<img src = "{{ page.postImage }}" class = "postImage" alt = "{{page.name}}">
-<br><br>
+<br>
+<div  class = "postImage">
+<img src = "{{ page.postImage }}" alt = "{{page.name}}">
+<span class = "caption" >{{ page.imgCaption }}</span>
+</div>
+
+<br>
 {{ content }}

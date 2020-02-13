@@ -65,7 +65,7 @@ You can follow along with updates here: [New Arena at Seattle Center]( http://ne
   <br>
 # When is the expansion draft?
 
-The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the draft to take place in June. **The NHL Seattle expansion drat will take place in June of 2021.**
+The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the NHL Seattle expansion draft to take place in June. **The NHL Seattle expansion draft will take place in June of 2021.**
 
 
 <br>
@@ -81,5 +81,5 @@ You can find more information here: [Northgate Ice Centre](https://www.nhl.com/s
 
 # What do we know about the staff?
 
-The General Manager is Ron Francis. Theyve already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That's pure speculation on my part!
+The General Manager is Ron Francis. They've already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That's pure speculation on my part!
 <br>

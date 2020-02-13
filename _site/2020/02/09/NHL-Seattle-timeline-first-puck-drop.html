@@ -56,10 +56,12 @@
       
       <li  class="nav-link" >
         <a href="/">Blog</a>
+
       </li>
       
       <li  class="nav-link" >
         <a href="/staff.html">Staff</a>
+
       </li>
       
       <li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
@@ -69,7 +71,27 @@
 
   <body>
     <div class = "content">
-    <h1>NHL Seattle: Timeline until the first puck drops</h1>
+    <head><script>// The function actually applying the offset
+function offsetAnchor() {
+  if (location.hash.length !== 0) {
+    window.scrollTo(window.scrollX, window.scrollY - 100);
+  }
+}
+
+// Captures click events of all <a> elements with href starting with #
+$(document).on('click', 'a[href^="#"]', function(event) {
+  // Click events are captured before hashchanges. Timeout
+  // causes offsetAnchor to be called after the page jump.
+  window.setTimeout(function() {
+    offsetAnchor();
+  }, 0);
+});
+
+// Set the offset when entering page with hash present in the url
+window.setTimeout(offsetAnchor, 0);
+</script></head>
+
+<h1>NHL Seattle: Timeline until the first puck drops</h1>
 <p>
   February  9, 2020
   

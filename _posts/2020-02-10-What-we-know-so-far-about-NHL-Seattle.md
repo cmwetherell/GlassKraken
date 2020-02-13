@@ -14,7 +14,6 @@ imgCaption: "Source: New Arena at Seattle Center"
 - [When is the expansion draft?](#when-is-the-expansion-draft)
 - [Where is the practice facility?](#where-is-the-practice-facility)
 - [What do we know about the staff?](#what-do-we-know-about-the-staff)
-- [Does Seattle have the fanbase to support NHL Seattle?](#does-seattle-have-the-fanbase-to-support-nhl-seattle)
 
 <!-- /TOC -->
 <br>
@@ -45,24 +44,42 @@ It's still unclear what the mascot will be for NHL Seattle, but Kraken is certai
 <br>
 <br>
 # When is the first NHL Seattle game?
+
+We don't have an exact date just yet, but it will be in early October.
+<br><br>
+Before doing any research at all, my suspicion was that the Seattle team would open season for the NHL with a home game in the new arena. And, that would be a very exciting way to kick off the new season! Unfortunately, each of the previous four expansion teams did not play on opening night (Atlanta Thrashers, Minnesota Wild, Columbus Blue Jackets, and the Las Vegas Golden Knights). If we look to the beginning of the 2017-18 season, we see that VGK played their first game on ***day 3*** of the season, and then they started with ***two away games***.
+<br><br>
+We don't know when the first game of the season will be (it's usually in the first 10 days of October). We don't know how many days into the season until the Krakens first game. And, we don't know which game will be the first home game. Stay tuned on this one, it looks like the schedule usually comes out in June, so we should have an answer to this question in June of 2021, four months before puck-drop.
+
+
 <br>
 # Where will NHL Seattle play?
+
+The Kraken will play at a renovated Key Arena.  The name of the arena and sponsorship partner have yet to be announced. The City of Seattle designated the roof as a historic landmark (it is meant to represent a Native hat worn by those indigenous to Seattle), so the project is basically a complete teardown except for that. Interestingly, the cost of keeping the roof added a staggering $100M to the project, which is closing in on an expected $1B cost at this point.
+<br><br>
+You can follow along with updates here: [New Arena at Seattle Center]( http://newarenaatseattlecenter.com/).
 <br>
+<br>
+  <img src = "/assets/img/Key-Arena-Roof-Suspended.jpg" alt = "Key Arena Roof Lift during construction" class = "ccccdd">
+  <span class = "caption" >Source: Me!</span>
+  <br>
 # When is the expansion draft?
+
+The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the draft to take place in June. **The NHL Seattle expansion drat will take place in June of 2021.**
+
+
 <br>
+
 # Where is the practice facility?
+
+The practice facility is currently under construction in Northgate, and will be creatively names the "Northgate Ice Centre". Yes, they are using the Canadian spelling of "Centre".
+<br><br>
+You can find more information here: [Northgate Ice Centre](https://www.nhl.com/seattle/fans/ice-centre).
+
+
 <br>
+
 # What do we know about the staff?
+
+The General Manager is Ron Francis. Theyve already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That's pure speculation on my part!
 <br>
-# Does Seattle have the fanbase to support NHL Seattle?
-
-
-Outline:
-Team name
-first game: when was vegas game?
-arena
-expansion draft / vegas
-practice facility
-Staff
-<br><br><br>
-Fans

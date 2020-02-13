@@ -25,7 +25,7 @@ a:hover { text-decoration: underline; }
 
 .toggle a { font-size: 20px; }
 
-.nav-sticky { position: fixed; top: 0; width: 100%; }
+.nav-sticky { position: fixed; top: 0; width: 100%; z-index: 999; }
 
 /* Mobile menu */
 .menu { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; }
@@ -54,11 +54,11 @@ a:hover { text-decoration: underline; }
 
 .selfie { display: block; margin-left: auto; margin-right: auto; width: 100%; height: auto; max-width: 250px; }
 
-.postImage { display: block; text-align: center; margin-left: auto; margin-right: auto; font-size: 12px; }
+.postImage { display: block; text-align: center; margin-left: auto; margin-right: auto; font-size: 12px; max-height: 300px; }
 
 .postImage img { height: auto; max-height: 300px; }
 
-.caption { display: block; }
+.caption { display: block; text-align: center; margin-left: auto; margin-right: auto; font-size: 12px; }
 
 .ccccdd { width: 500px; display: block; text-align: center; margin-left: auto; margin-right: auto; }
 

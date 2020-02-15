@@ -1,4 +1,6 @@
-- name: Blog
+- name: News
   link: /
+- name: Glass Seats
+  link: /glass-seats.html
 - name: Staff
   link: /staff.html

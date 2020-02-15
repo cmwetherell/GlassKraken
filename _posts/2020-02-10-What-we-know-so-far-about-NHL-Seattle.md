@@ -43,9 +43,10 @@ Following the viral explosion of 'Kraken' being selected, NHL Seattle sent a twe
 It's still unclear what the mascot will be for NHL Seattle, but Kraken is certainly a front runner.
 <br>
 <br>
+
 # When is the first NHL Seattle game?
 
-We don't have an exact date just yet, but it will be in early October.
+We don't have an exact date just yet, but it will be in early October 2021.
 <br><br>
 Before doing any research at all, my suspicion was that the Seattle team would open season for the NHL with a home game in the new arena. And, that would be a very exciting way to kick off the new season! Unfortunately, each of the previous four expansion teams did not play on opening night (Atlanta Thrashers, Minnesota Wild, Columbus Blue Jackets, and the Las Vegas Golden Knights). If we look to the beginning of the 2017-18 season, we see that VGK played their first game on ***day 3*** of the season, and then they started with ***two away games***.
 <br><br>
@@ -53,6 +54,7 @@ We don't know when the first game of the season will be (it's usually in the fir
 
 
 <br>
+
 # Where will NHL Seattle play?
 
 The Kraken will play at a renovated Key Arena.  The name of the arena and sponsorship partner have yet to be announced. The City of Seattle designated the roof as a historic landmark (it is meant to represent a Native hat worn by those indigenous to Seattle), so the project is basically a complete teardown except for that. Interestingly, the cost of keeping the roof added a staggering $100M to the project, which is closing in on an expected $1B cost at this point.
@@ -63,9 +65,10 @@ You can follow along with updates here: [New Arena at Seattle Center]( http://ne
   <img src = "/assets/img/Key-Arena-Roof-Suspended.jpg" alt = "Key Arena Roof Lift during construction" class = "ccccdd">
   <span class = "caption" >Source: Me!</span>
   <br>
+
 # When is the expansion draft?
 
-The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the NHL Seattle expansion draft to take place in June. **The NHL Seattle expansion draft will take place in June of 2021.**
+The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20 in Las Vegas, NV. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the NHL Seattle expansion draft to take place in June. **The NHL Seattle expansion draft will take place in June of 2021.**
 
 
 <br>

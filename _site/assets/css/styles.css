@@ -40,17 +40,21 @@ a:hover { text-decoration: underline; }
 
 .nav-link-active.active { display: block; }
 
+.glassVid { display: block; margin: 0 auto; width: 300px; }
+
 /* Tablet menu */
 @media screen and (min-width: 600px) { .menu { justify-content: center; }
   .nav-logo { flex: 1; }
-  .toggle { flex: 1; text-align: right; } }
+  .toggle { flex: 1; text-align: right; }
+  .glassVid { width: 500px; } }
 
 /* Desktop menu */
 @media screen and (min-width: 900px) { .nav-link { display: block; width: auto; }
   .nav-link-active { display: block; width: auto; }
   .toggle { display: none; }
   .menu li { padding: 15px 10px; }
-  .content { padding-left: 20%; padding-right: 20%; } }
+  .content { padding-left: 20%; padding-right: 20%; }
+  .glassVid { width: 600px; } }
 
 .selfie { display: block; margin-left: auto; margin-right: auto; width: 100%; height: auto; max-width: 250px; }
 

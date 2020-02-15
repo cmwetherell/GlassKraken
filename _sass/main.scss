@@ -101,7 +101,11 @@ a:hover {
     display: block;
 
 }
-
+.glassVid {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
 /* Tablet menu */
 @media screen and (min-width: 600px) {
     .menu {
@@ -114,7 +118,9 @@ a:hover {
         flex: 1;
         text-align: right;
     }
-
+    .glassVid {
+      width: 500px;
+    }
 }
 /* Desktop menu */
 @media screen and (min-width: 900px) {
@@ -138,6 +144,11 @@ a:hover {
       padding-right: 20%;
 
     }
+    .glassVid {
+
+      width: 600px;
+    }
+
 }
 
 .selfie {

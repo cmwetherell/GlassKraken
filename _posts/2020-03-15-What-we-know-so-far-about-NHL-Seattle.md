@@ -85,5 +85,3 @@ You can find more information here: [Northgate Ice Centre](https://www.nhl.com/s
 # What do we know about the staff?
 
 The General Manager is Ron Francis. They've already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That's pure speculation on my part!
-<br>
-<br><br>

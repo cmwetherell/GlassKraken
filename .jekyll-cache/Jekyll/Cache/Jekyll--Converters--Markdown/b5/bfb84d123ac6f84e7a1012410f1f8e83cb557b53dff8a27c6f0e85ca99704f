@@ -1,7 +1,0 @@
-I"<h1 id="glass-seats-are-epic">Glass seats are epic!</h1>
-<p><br /></p>
-<video class="glassVid" controls="" onclick="this.paused ? this.play() : this.pause();">
-  <source src="/assets/video/glass-seats-NHL.mp4" type="video/mp4" />
-Your browser does not support the video tag.
-</video>
-:ET

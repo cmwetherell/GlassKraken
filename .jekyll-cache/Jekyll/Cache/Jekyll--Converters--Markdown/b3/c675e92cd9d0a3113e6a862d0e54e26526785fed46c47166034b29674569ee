@@ -1,0 +1,274 @@
+I"�A<div id="content"><head><script>// The function actually applying the offset<br />
+function offsetAnchor() {<br />
+  if (location.hash.length !== 0) {<br />
+    window.scrollTo(window.scrollX, window.scrollY - 100);<br />
+  }<br />
+}<br />
+<br />
+// Captures click events of all <a> elements with href starting with #<br />
+$(document).on('click', 'a[href^="#"]', function(event) {<br />
+  // Click events are captured before hashchanges. Timeout<br />
+  // causes offsetAnchor to be called after the page jump.<br />
+  window.setTimeout(function() {<br />
+    offsetAnchor();<br />
+  }, 0);<br />
+});<br />
+<br />
+// Set the offset when entering page with hash present in the url<br />
+window.setTimeout(offsetAnchor, 0);<br />
+</script></head><br />
+<br />
+<h1>What we know so far about NHL Seattle</h1><br />
+<p><br />
+  March 15, 2020<br />
+  <br />
+  <br />
+    - <a href="/authors/caleb.html">Caleb Wetherell</a><br />
+  <br />
+</p><br />
+<br />
+<br /><br />
+<div class="postImage"><br />
+<img src="/assets/img/render-inside-Seattle-Center-arena.jpg" alt="" /><br />
+<span class="caption">Source: New Arena at Seattle Center</span><br />
+</div><br />
+<br />
+<br /><br />
+<h3 id="contents">Contents</h3><br />
+<p><br /><!-- TOC --></p><br />
+<br />
+<ul><br />
+  <li><a href="#what-is-the-team-name-for-nhl-seattle">What is the team name for NHL Seattle?</a></li><br />
+  <li><a href="#when-is-the-first-nhl-seattle-game">When is the first NHL Seattle game?</a></li><br />
+  <li><a href="#where-will-nhl-seattle-play">Where will NHL Seattle play?</a></li><br />
+  <li><a href="#when-is-the-expansion-draft">When is the expansion draft?</a></li><br />
+  <li><a href="#where-is-the-practice-facility">Where is the practice facility?</a></li><br />
+  <li><a href="#what-do-we-know-about-the-staff">What do we know about the staff?</a></li><br />
+</ul><br />
+<br />
+<!-- /TOC --><br />
+<p><br /></p><br />
+<br />
+<h1 id="what-is-the-team-name-for-nhl-seattle">What is the team name for NHL Seattle?</h1><br />
+<br />
+<p>According to the rumor mill, the most likely mascot will be a ‘Kraken’, which is a sea monster of gigantic size in Scandinavian folklore. Seattle Times <a href="https://projects.seattletimes.com/2018/sports/name-the-seattle-nhl-team/">ran a competition</a> to determine what the locals would like to see, and Kraken lost in the first round to Steelheads in the <strong><em>first round!</em></strong></p><br />
+<br />
+<p><br /></p><br />
+<br />
+<p>So, why do we think the mascot will be Kraken? In an interview on Sirius XM’s NHL Network Radio, John Hoven reported that he heard the name would be ‘Kraken’ and that he was ‘surprised’ at the choice. Hoven is the editor of <a href="http://mayorsmanor.com/">Mayors Manor</a>, a blog dedicated to the Los Angeles Kings. Following the rumor, <a href="https://www.sbnation.com/2020/2/8/21128447/seattle-kraken-logo-uniform-jersey">SBNation</a> graced us with some logos and uniform concepts. My personal favorite is the tentacle shaped ‘S’:</p><br />
+<br />
+<p><br /></p><br />
+<br />
+<p><img src="/assets/img/Kraken_tentacle.png" alt="SBNation Seattle Kraken Tentacle Logo" class="ccccdd" /></p><br />
+<br />
+<p><br /></p><br />
+<br />
+<p>Following the viral explosion of ‘Kraken’ being selected, NHL Seattle sent a tweet seemingly narrowing down the options, but confirming none of them:</p><br />
+<br />
+<p><br /></p><br />
+<br />
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">While we’re aware of some fishy rumors surrounding our team name, please rest assured we’re doing our due diligence by scouring the depths of the ocean, the tallest mountains, and the densest parts of the forest to find the right name for our great, green city.</p>&mdash; NHL Seattle (@NHLSeattle_) <a href="https://twitter.com/NHLSeattle_/status/1222658065024995328?ref_src=twsrc%5Etfw">January 29, 2020</a></blockquote><br />
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+<br />
+<p><br /><br />
+It’s still unclear what the mascot will be for NHL Seattle, but Kraken is certainly a front runner.<br />
+<br /><br />
+<br /></p><br />
+<br />
+<h1 id="when-is-the-first-nhl-seattle-game">When is the first NHL Seattle game?</h1><br />
+<br />
+<p>We don’t have an exact date just yet, but it will be in early October 2021.<br />
+<br /><br /><br />
+Before doing any research at all, my suspicion was that the Seattle team would open season for the NHL with a home game in the new arena. And, that would be a very exciting way to kick off the new season! Unfortunately, each of the previous four expansion teams did not play on opening night (Atlanta Thrashers, Minnesota Wild, Columbus Blue Jackets, and the Las Vegas Golden Knights). If we look to the beginning of the 2017-18 season, we see that VGK played their first game on <strong><em>day 3</em></strong> of the season, and then they started with <strong><em>two away games</em></strong>.<br />
+<br /><br /><br />
+We don’t know when the first game of the season will be (it’s usually in the first 10 days of October). We don’t know how many days into the season until the Krakens first game. And, we don’t know which game will be the first home game. Stay tuned on this one, it looks like the schedule usually comes out in June, so we should have an answer to this question in June of 2021, four months before puck-drop.</p><br />
+<br />
+<p><br /></p><br />
+<br />
+<h1 id="where-will-nhl-seattle-play">Where will NHL Seattle play?</h1><br />
+<br />
+<p>The Kraken will play at a renovated Key Arena.  The name of the arena and sponsorship partner have yet to be announced. The City of Seattle designated the roof as a historic landmark (it is meant to represent a Native hat worn by those indigenous to Seattle), so the project is basically a complete teardown except for that. Interestingly, the cost of keeping the roof added a staggering $100M to the project, which is closing in on an expected $1B cost at this point.<br />
+<br /><br /><br />
+You can follow along with updates here: <a href="http://newarenaatseattlecenter.com/">New Arena at Seattle Center</a>.<br />
+<br /><br />
+<br /><br />
+  <img src="/assets/img/Key-Arena-Roof-Suspended.jpg" alt="Key Arena Roof Lift during construction" class="ccccdd" /><br />
+  <span class="caption">Source: Me!</span><br />
+  <br /></p><br />
+<br />
+<h1 id="when-is-the-expansion-draft">When is the expansion draft?</h1><br />
+<br />
+<p>The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20 in Las Vegas, NV. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the NHL Seattle expansion draft to take place in June. <strong>The NHL Seattle expansion draft will take place in June of 2021.</strong></p><br />
+<br />
+<p><br /></p><br />
+<br />
+<h1 id="where-is-the-practice-facility">Where is the practice facility?</h1><br />
+<br />
+<p>The practice facility is currently under construction in Northgate, and will be creatively names the “Northgate Ice Centre”. Yes, they are using the Canadian spelling of “Centre”.<br />
+<br /><br /><br />
+You can find more information here: <a href="https://www.nhl.com/seattle/fans/ice-centre">Northgate Ice Centre</a>.</p><br />
+<br />
+<p><br /></p><br />
+<br />
+<h1 id="what-do-we-know-about-the-staff">What do we know about the staff?</h1><br />
+<br />
+<p>The General Manager is Ron Francis. They’ve already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That’s pure speculation on my part!<br />
+<br /><br />
+<br /><br /></p><br />
+<br />
+
+
+## Highlights
+<br />
+<ul style="position:relative; list-style-type:disc; left: 30px">
+  <li>The announcement of the NHL Seattle team name will be delayed until further notice.</li>
+  <br />
+  <li>General season ticket holder seat selection was scheduled to begin in March but will be postponed until further notice.</li>
+  <br />
+  <li>Premium season ticket holders were scheduled to begin payment on April 1. Instead, they will begin on July 1. There will be 15 payments instead of 18.</li>
+  <br />
+</ul>
+
+## More Details
+
+Email to fans:
+
+
+&gt;As we face this challenging situation, our greatest priority is keeping safe and supporting each other. Recognizing these unprecedented times, I want to share some of our plans.
+&gt;
+&gt;We are deferring payments due in April, May and June for those who purchased premium seating. We will wait to begin general seat selection and we look for the right time to reveal our team name and brand. We recognize the excitement around this, and we appreciate your patience.
+&gt;
+&gt;As many of you know, plans are underway to start a high-impact charitable foundation dedicated to marginalized youth and fostering equity and inclusion. Today we are exploring multiple near-term ways to support our community, specifically our neighbors and nonprofit partners most impacted. An immediate step this week is a donation of $100,000 to Youth Care to aid its critical needs addressing youth homelessness. Community is bedrock to what Oak View Group and NHL Seattle do.
+&gt;
+&gt;Meanwhile, we never lose sight of the promises we have made to you, our fans. Our leadership team is focused on planning for the next 18 months and our General Manager Ron Francis and his staff remain diligent in the efforts to build a great team. During this time of uncertainty, our social and digital channels will update you with informative and engaging content; we want to keep hearing from you.
+&gt;
+&gt;We are committed to looking to the horizon. Together we will not only weather this storm, we will emerge closer and stronger as a community.
+&gt;  
+&gt;Please stay safe and take care of each other.
+
+
+Email to premium season ticket holders:
+
+&gt;First and foremost, I hope you and your family are doing well.
+&gt;
+&gt;As we deal with these challenging times, please know we are thinking of you, your loved ones and our community. I will be sending a message shortly to all fans sharing more about our commitment to the Pacific Northwest community but wanted to communicate with you first about your membership.
+&gt;
+&gt;We are deeply grateful for your loyalty and belief in our franchise. Our entire organization is focused on planning for the next 18 months and beyond. Our front office staff is all working remotely, including our sales and ticketing team, but we are fully accessible at any time by phone, email or text.
+&gt;
+&gt;We have been working closely with the NHL and will defer membership payments due in April, May and June. We will begin payment July 1 and adjust your payment schedule accordingly. The updates to your payment schedule can be viewed online via Account Manager. This is an evolving situation that we will continue to monitor. We thank you for your patience and flexibility.
+&gt;
+&gt;If you have questions, please do not hesitate to get in touch with your premium account executive, who will be happy to discuss details.
+&gt;
+&gt;Please stay safe,
+&gt;
+&gt;  
+&gt;Tod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Contents
+<br /><!-- TOC -->
+
+- [What is the team name for NHL Seattle?](#what-is-the-team-name-for-nhl-seattle)
+- [When is the first NHL Seattle game?](#when-is-the-first-nhl-seattle-game)
+- [Where will NHL Seattle play?](#where-will-nhl-seattle-play)
+- [When is the expansion draft?](#when-is-the-expansion-draft)
+- [Where is the practice facility?](#where-is-the-practice-facility)
+- [What do we know about the staff?](#what-do-we-know-about-the-staff)
+
+<!-- /TOC -->
+<br />
+
+# What is the team name for NHL Seattle?
+
+According to the rumor mill, the most likely mascot will be a 'Kraken', which is a sea monster of gigantic size in Scandinavian folklore. Seattle Times [ran a competition](https://projects.seattletimes.com/2018/sports/name-the-seattle-nhl-team/) to determine what the locals would like to see, and Kraken lost in the first round to Steelheads in the ***first round!***
+
+<br />
+
+So, why do we think the mascot will be Kraken? In an interview on Sirius XM's NHL Network Radio, John Hoven reported that he heard the name would be 'Kraken' and that he was 'surprised' at the choice. Hoven is the editor of [Mayors Manor](http://mayorsmanor.com/), a blog dedicated to the Los Angeles Kings. Following the rumor, [SBNation](https://www.sbnation.com/2020/2/8/21128447/seattle-kraken-logo-uniform-jersey) graced us with some logos and uniform concepts. My personal favorite is the tentacle shaped 'S':
+
+<br />
+
+
+  <img src="/assets/img/Kraken_tentacle.png" alt="SBNation Seattle Kraken Tentacle Logo" class="ccccdd" />
+
+<br />
+
+Following the viral explosion of 'Kraken' being selected, NHL Seattle sent a tweet seemingly narrowing down the options, but confirming none of them:
+
+<br />
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">While we’re aware of some fishy rumors surrounding our team name, please rest assured we’re doing our due diligence by scouring the depths of the ocean, the tallest mountains, and the densest parts of the forest to find the right name for our great, green city.</p>&mdash; NHL Seattle (@NHLSeattle_) <a href="https://twitter.com/NHLSeattle_/status/1222658065024995328?ref_src=twsrc%5Etfw">January 29, 2020</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br />
+It's still unclear what the mascot will be for NHL Seattle, but Kraken is certainly a front runner.
+<br />
+<br />
+
+# When is the first NHL Seattle game?
+
+We don't have an exact date just yet, but it will be in early October 2021.
+<br /><br />
+Before doing any research at all, my suspicion was that the Seattle team would open season for the NHL with a home game in the new arena. And, that would be a very exciting way to kick off the new season! Unfortunately, each of the previous four expansion teams did not play on opening night (Atlanta Thrashers, Minnesota Wild, Columbus Blue Jackets, and the Las Vegas Golden Knights). If we look to the beginning of the 2017-18 season, we see that VGK played their first game on ***day 3*** of the season, and then they started with ***two away games***.
+<br /><br />
+We don't know when the first game of the season will be (it's usually in the first 10 days of October). We don't know how many days into the season until the Krakens first game. And, we don't know which game will be the first home game. Stay tuned on this one, it looks like the schedule usually comes out in June, so we should have an answer to this question in June of 2021, four months before puck-drop.
+
+
+<br />
+
+# Where will NHL Seattle play?
+
+The Kraken will play at a renovated Key Arena.  The name of the arena and sponsorship partner have yet to be announced. The City of Seattle designated the roof as a historic landmark (it is meant to represent a Native hat worn by those indigenous to Seattle), so the project is basically a complete teardown except for that. Interestingly, the cost of keeping the roof added a staggering $100M to the project, which is closing in on an expected $1B cost at this point.
+<br /><br />
+You can follow along with updates here: [New Arena at Seattle Center]( http://newarenaatseattlecenter.com/).
+<br />
+<br />
+  <img src="/assets/img/Key-Arena-Roof-Suspended.jpg" alt="Key Arena Roof Lift during construction" class="ccccdd" />
+  <span class="caption">Source: Me!</span>
+  <br />
+
+# When is the expansion draft?
+
+The 2017 NHL Expansion Draft to fill the VGK roster was held from June 18-20 in Las Vegas, NV. The 1999 and 2000 NHL Expansion Drafts were also held in June. I was also told by a representative from the team they are expecting the NHL Seattle expansion draft to take place in June. **The NHL Seattle expansion draft will take place in June of 2021.**
+
+
+<br />
+
+# Where is the practice facility?
+
+The practice facility is currently under construction in Northgate, and will be creatively names the "Northgate Ice Centre". Yes, they are using the Canadian spelling of "Centre".
+<br /><br />
+You can find more information here: [Northgate Ice Centre](https://www.nhl.com/seattle/fans/ice-centre).
+
+
+<br />
+
+# What do we know about the staff?
+
+The General Manager is Ron Francis. They've already hired a bunch of scouts in addition to some big hockey names like Dave Tippet, who is on board as a strategic advisor, but denied near the end of 2018 that he would be coaching the team. He seems like a leading candidate to be named the coach sometime late in 2020. That's pure speculation on my part!
+<br />
+<br /><br />
+
+</div>
+:ET
